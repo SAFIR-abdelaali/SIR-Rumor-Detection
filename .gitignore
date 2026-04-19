@@ -1,0 +1,7 @@
+# Datasets
+data/
+synthetic_test_data_extreme.csv
+
+# Exported models
+models/
+*.pkl
